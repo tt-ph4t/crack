@@ -1,0 +1,2 @@
+diffchecker/*/app.asar filter=lfs diff=lfs merge=lfs -text
+diffchecker/*/*.exe filter=lfs diff=lfs merge=lfs -text
