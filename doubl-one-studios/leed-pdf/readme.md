@@ -1,4 +1,4 @@
-<div style='width:200'>
+<div style='width:200px'>
 
 ![](./logo.png)
 

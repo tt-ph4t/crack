@@ -1,4 +1,4 @@
-<div style='width:300'>
+<div style='width:300px'>
 
 ![](./3.10.2/app/dark.svg)
 

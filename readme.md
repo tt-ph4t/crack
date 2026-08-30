@@ -1,4 +1,4 @@
-<div style='width:300'>
+<div style='width:300px'>
 
 ![](./Love%20Wins%20Gay%20Kiss%20GIF%20by%20Auto%20Discount%20Location.gif)
 
