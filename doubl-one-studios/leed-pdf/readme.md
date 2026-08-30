@@ -1,6 +1,6 @@
-![](./logo.png)
+<img width=200 src=./logo.png/>
 
-1. Overwrite `<installation directory>/leed-pdf.exe` with `leed-pdf.exe`.
+1. Replace `<installation directory>/leed-pdf.exe` with `leed-pdf.exe`.
 
 ### Links
 

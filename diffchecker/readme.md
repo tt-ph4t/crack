@@ -1,6 +1,6 @@
 ![](./icon.ico)
 
-1. Overwrite `<installation directory>/resources/app.asar` with `app.asar`.
+1. Replace `<installation directory>/resources/app.asar` with `app.asar`.
 
 ### Links
 
