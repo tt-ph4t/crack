@@ -1,8 +1,4 @@
-<div style='width:200px'>
-
 ![](./logo.png)
-
-</div>
 
 1. Overwrite `<installation directory>/leed-pdf.exe` with `leed-pdf.exe`.
 
