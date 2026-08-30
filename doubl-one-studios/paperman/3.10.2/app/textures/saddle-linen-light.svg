@@ -1,0 +1,14 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="linen-weave">
+      <feTurbulence type="fractalNoise" baseFrequency="0.015 0.35" numOctaves="3" result="warp"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.35 0.015" numOctaves="3" result="weft"/>
+      <feComposite operator="arithmetic" k1="0.5" k2="0.5" in="warp" in2="weft" result="weave-base"/>
+      <feDiffuseLighting in="weave-base" lighting-color="#ffffff" surfaceScale="1.8" result="light">
+        <feDistantLight azimuth="45" elevation="65"/>
+      </feDiffuseLighting>
+      <feBlend mode="multiply" in="SourceGraphic" in2="light"/>
+    </filter>
+  </defs>
+  <rect width="100%" height="100%" fill="#EFEADF" filter="url(#linen-weave)"/>
+</svg>

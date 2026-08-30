@@ -1,8 +1,6 @@
 ![](./icon.ico)
 
-### Activation Instructions
-
-1. Copy `app.asar` to `<installation directory>/resources/app.asar`, replacing the existing file.
+1. Overwrite `<installation directory>/resources/app.asar` with `app.asar`.
 
 ### Links
 
