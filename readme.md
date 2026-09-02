@@ -13,6 +13,7 @@
 
 // Links
 // https://github.com/horsicq/DIE-engine
-// https://npmjs.com/package/@electron/asar
+// https://github.com/electron/asar
 // https://github.com/mas0nshi/tauri-dumper
+// https://github.com/terser/terser
 ```
