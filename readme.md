@@ -22,9 +22,7 @@
 
 ### Links
 
-```
-https://github.com/rudi-q/leed_pdf_viewer/blob/f768c500b521d264d51b13042a52ecbc49286626/src/lib/utils/licenseManager.ts
-```
+- [licenseManager.ts](https://github.com/rudi-q/leed_pdf_viewer/blob/f768c500b521d264d51b13042a52ecbc49286626/src/lib/utils/licenseManager.ts)
 
 ## [Paperman (Unlimited)](https://paperman.cc)
 
