@@ -34,15 +34,10 @@
 
 <img width=100 src=./assets/octarine-logo.png/>
 
-### 0.51.0
+### 0.50.2, 0.51.0 & 0.53.0
 
-1. Install and activate version `0.50.2`.
-2. Upgrade to version `0.51.0`.
-
-### 0.50.2
-
-1. Copy `octarine.exe` to `<installation-directory>`.
-2. Use any license key to activate.
+1. Install the application.
+2. Open `0.50.2/octarine.exe` to activate the license using any license key.
 
 ## [RunJS (Lifetime)](https://runjs.app)
 
