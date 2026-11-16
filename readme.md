@@ -1,14 +1,6 @@
 > Support the developer by purchasing a license
 
-```js
-// Links
-// https://github.com/electron/asar
-// https://github.com/horsicq/DIE-engine
-// https://github.com/mas0nshi/tauri-dumper
-// https://github.com/terser/terser
-```
-
-## [Diffchecker (Pro)](https://www.diffchecker.com)
+## [Diffchecker (Pro)](https://diffchecker.com)
 
 <img width=100 src=./assets/diffchecker-icon.ico/>
 
@@ -48,7 +40,7 @@
 3. Close the application.
 4. Copy `app-2.asar` to `<installation-directory>/resources` as `app.asar`.
 
-## [Bruno (Ultimate)](https://www.usebruno.com)
+## [Bruno (Ultimate)](https://usebruno.com)
 
 <img width=100 src=./assets/bruno-logo-transparent.png/>
 
@@ -68,3 +60,19 @@
 ```
 
 1. Copy `license.json` to `%APPDATA%/bruno`.
+
+## Links & todos
+
+```sh
+# https://github.com/electron/asar
+# https://github.com/horsicq/DIE-engine
+# https://github.com/mas0nshi/tauri-dumper
+# https://github.com/terser/terser
+
+# https://cap.so
+# https://conar.app
+# https://nucleoapp.com
+# https://postman.com
+# https://proxyman.com
+# https://typora.io
+```
